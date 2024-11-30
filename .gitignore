@@ -1,0 +1,91 @@
+# Unity generated files and folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Auto-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+# scenes that are too big for github
+*.unity
+
+# Unity metadata files
+*.unitypackage
+*.asset
+*.asset.meta
+*.prefab.meta
+*.mat.meta
+*.fbx.meta
+
+# Cache directories
+[Ss]cripted[Oo]bjects/
+[Uu]ser[Ss]ettings/
+
+# VSCode specific files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+desktop.ini
+
+# Exclude crash logs and debug files
+sysinfo.txt
+
+# Exclude VR-specific temporary files
+[Oo]culus/
+[Oo]penVR/
+
+# TextMesh Pro generated files
+[Tt]ext[Mm]esh[Pp]ro/
+
+# Exclude Rider IDE files
+.idea/
+*.iml
+*.ipr
+
+# Unity Collaborate temporary files
+.Collab/
+
+# Exclude built binaries and executables
+*.exe
+*.dll
+*.apk
+*.app
+*.ipa
+*.so
+*.dylib
+*.bc
+*.a
+*.o
+
+# JetBrains Rider specific files
+*.idea/
+.idea/
+*.sln.iml
+*.Rider/
+
+# Package Cache
+/Packages/com.unity.package-manager-ui
+
+# Exclude YAMLMerge conflicts
+*.merge-left.*
+*.merge-right.*
+*.merge-base.*
