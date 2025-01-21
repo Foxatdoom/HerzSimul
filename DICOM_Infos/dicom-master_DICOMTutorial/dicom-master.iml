@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Creating a DICOM File" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Extracting Image Data" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Making Sense of the DICOM File" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Orthanc DICOM Server for Testing" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Query and Retrieve Operations" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Storage Operations" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Understanding Associations" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Understanding DICOM Directories" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Understanding DICOM Verification" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+      <sourceFolder url="file://$MODULE_DIR$/dicom-master/DICOM Basics - Viewing DICOM Images" isTestSource="false" packagePrefix="com.saravanansubramanian.dicom.pixelmedtutorial" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="pixelmed" level="project" />
+  </component>
+</module>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="DICOM Basics - Understanding DICOM Directories">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dicom-master/DICOM Basics - Understanding DICOM Directories/RandomImagesForDicomDirectoryCreationDemo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dicom-master/DICOM Basics - Understanding DICOM Directories/compsamples_refanddir.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
