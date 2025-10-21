@@ -1,0 +1,19 @@
+MUST Have
+
+Segmente smoothen? Marcel
+Herzsegmente zusammenfügen (Karim Marcel, am besten relativ früh wegen workflow)
+Buttons fürs wechseln zwischen Gesamtherz und Segment-Herz
+gewünschte Funktionen auf beide Herzen anwenden
+	zoom & Rotation
+	Innenleben (einzelne Segmente)
+		Buttons fürs wechseln zwischen coronal, transversal und sattigal
+		Slider geht dann in allen Ansichten (coronal, transversal und sattigal)
+	2D Schnitte (Gesamtherz)
+		Buttons fürs wechseln zwischen coronal, transversal und sattigal
+		Slider geht dann in allen Ansichten (coronal, transversal und sattigal)
+Einfärben: Gesamtherz und einzelne Segmnente
+
+Should Have
+
+Einfärbung der Segmente + Gesamtherz
+Clean up Scene + unnötges Zeug löschen
